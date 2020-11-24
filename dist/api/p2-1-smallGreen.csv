@@ -1,0 +1,19 @@
+party,year,a,ab,seat,legislatorVote,partyVote, presidentVote
+smallGreen,2000,0,0,0,0,0,0
+smallGreen,2001,802605,802605,13,802605,0,0
+smallGreen,2004,756712,756712,12,756712,0,0
+smallGreen,2008,108607,511967,0,108607,403360,0
+smallGreen,2012,79729,1488092,3,79729,1408363,0
+smallGreen,2016,652667,2010763,5,652667,1358096,0
+unionParty,2000,0,0,0,0,0,0
+unionParty,2001,0,0,13,0,0,0
+unionParty,2004,0,0,12,0,0,0
+unionParty,2008,0,0,0,0,0,0
+unionParty,2012,0,0,3,0,0,0
+unionParty,2016,0,0,0,0,0,0
+newPower,2000,0,0,0,0,0,0
+newPower,2001,0,0,0,0,0,0
+newPower,2004,0,0,0,0,0,0
+newPower,2008,0,0,0,0,0,0
+newPower,2012,0,0,0,0,0,0
+newPower,2016,0,0,5,0,0,0

@@ -1,0 +1,25 @@
+party,year,a,ab,abc,legislatorVote,partyVote, presidentVote,seat
+smallBlue,2000,0,0,4681754,0,0,4681754,0
+smallBlue,2001,2187456,2187456,2187456,2187456,0,0,47
+smallBlue,2004,1715914,1715914,1715914,1715914,0,0,41
+smallBlue,2008,267571,722758,722758,267571,455187,0,4
+smallBlue,2012,354571,1272620,1642208,354571,918049,369588,5
+smallBlue,2016,455455,2035666,3612527,455455,1580211,1576861,4
+peopleFirst,2000,0,0,0,0,0,0,0
+peopleFirst,2001,0,0,0,0,0,0,46
+peopleFirst,2004,0,0,0,0,0,0,34
+peopleFirst,2008,0,0,0,0,0,0,1
+peopleFirst,2012,0,0,0,0,0,0,3
+peopleFirst,2016,0,0,0,0,0,0,3
+newParty,2000,0,0,0,0,0,0,0
+newParty,2001,0,0,0,0,0,0,1
+newParty,2004,0,0,0,0,0,0,1
+newParty,2008,0,0,0,0,0,0,0
+newParty,2012,0,0,0,0,0,0,0
+newParty,2016,0,0,0,0,0,0,0
+nonPartisan,2000,0,0,0,0,0,0,0
+nonPartisan,2001,0,0,0,0,0,0,0
+nonPartisan,2004,0,0,0,0,0,0,6
+nonPartisan,2008,0,0,0,0,0,0,3
+nonPartisan,2012,0,0,0,0,0,0,2
+nonPartisan,2016,0,0,0,0,0,0,1
