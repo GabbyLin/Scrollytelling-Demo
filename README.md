@@ -1,2 +1,1 @@
-# Scrollytelling-Demo
-Scrollytelling Demo
+### Scrollytelling Demo
